@@ -1,0 +1,6 @@
+learn2learn==0.2.1
+gymnasium==1.0.0
+gym==0.22.2
+numpy==2.2.2
+torch==2.6.0
+wandb==0.19.6
