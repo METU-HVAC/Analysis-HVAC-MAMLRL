@@ -38,9 +38,10 @@ Re-login, go to new terminal or use below command to update it.
 ### Install Sinergym
 
 Download Sinergym repository
-```
-git clone https://github.com/ugr-sail/sinergym.git
-```
+
+You need to install Sinergym with version 2.5.0 with Ubuntu 22.04. A table for Energyplus-Sinergym compatibility is found here:
+https://ugr-sail.github.io/sinergym/compilation/main/pages/installation.html
+
 Use Conda for environment management. Download Miniconda if you don't have it.Then;
 ```
 cd sinergym
